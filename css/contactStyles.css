@@ -1,0 +1,28 @@
+body{
+    background-color: #ffc45b;
+}
+
+input, label, p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+}
+
+legend{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 1.32em;
+}
+
+.radioLabel{
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+}
